@@ -1,0 +1,99 @@
+.panel-div{
+  border-top: 20px solid #0066cc;
+}
+.nav-title{
+  position: absolute;
+  font-size: 28px;
+  margin:25px;
+}
+.body-div{
+  background: #F3F7F9
+}
+.body-title{
+  position: relative;
+  height: 100px;
+  font-weight: bold
+}
+.title-text{
+  top:30px;
+  position: absolute;
+  font-size: 23px;
+  left:10px;
+  
+}
+.dropdown-select{
+  top:30px;
+  position: absolute;
+  right: 10px;
+  font-size: 23px
+}
+.body-panel{
+  
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 10px;
+  margin:20px;
+  
+}
+.panel-element{
+  float: left;
+  background-color: white;
+  margin: 10px;
+  padding: 10px;
+}
+.element-title{
+  position: absolute;
+  font-size:20px;
+  font-weight:bold;
+}
+.element-top{
+  display: grid;
+  grid-template-columns: auto auto;
+  padding: 5px;
+}
+.top-element{
+  margin: 2px;
+  padding: 2px;
+}
+.top1{
+  font-size:15px;
+  color: #999EB5;
+}
+.top2{
+  font-size:24px;
+}
+.element-bottom{
+  border-top: solid #F3F7F9 2px;
+  font-size:15px;
+  color: #999EB5;
+  display: grid;
+  grid-template-columns: auto auto;
+  padding: 5px;
+}
+.element-title-body{
+position: relative;
+  height: 30px;  
+}
+.img-icon{
+  
+  height: 15px;
+  width: 15px;
+}
+.element-icon{
+  position: absolute;
+  right: 10px;
+}
+.nav-icon{
+  height: 25px;
+  width: 25px;
+  margin:18px;
+}
+.icon-cluster{
+  position: absolute;
+  right: 20px;
+  margin: 39px;
+}
+.nav-div{
+  height: 143px;
+  position: relative;
+}
